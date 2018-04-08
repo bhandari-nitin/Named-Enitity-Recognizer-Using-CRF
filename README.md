@@ -26,7 +26,7 @@ pip install pandas
 To run the project, clone the repository and run the NER.py file.
 
 ```
-python NER.py
+python NER_CRF.py
 ```
 
 ## Acknowledgements
