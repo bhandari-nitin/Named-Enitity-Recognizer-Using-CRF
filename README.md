@@ -28,6 +28,9 @@ To run the project, clone the repository and run the NER.py file.
 ```
 python NER_CRF.py
 ```
+### Report
+
+To see the detailed project report, click [here](https://github.com/nsb007/Named-Enitity-Recognizer-Using-CRF/blob/master/Capstone_Project_Report.pdf)
 
 ## Acknowledgements
 
