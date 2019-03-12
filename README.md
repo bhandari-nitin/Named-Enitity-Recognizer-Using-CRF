@@ -5,7 +5,7 @@ This project implements NER using [Conditional Random Fields](https://en.wikiped
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will help you contribute and test by forking it on your local machine and then open a pull request to merge.
 
 ### Prerequisites
 
